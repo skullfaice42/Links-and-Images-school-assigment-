@@ -1,3 +1,7 @@
+body{
+    background-color: burlywood;
+}
+
 img{
 width:200px;
 
@@ -7,6 +11,9 @@ width:200px;
 p{
     text-align: center;
     background-color: rgb(112, 35, 35);
+    color: rgb(8, 9, 9); /*changes the color of the text*/
+
+
 }
 
 h1, h2{
