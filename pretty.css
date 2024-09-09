@@ -4,9 +4,11 @@ body{
 
 img{
 width:200px;
-
+display: block;
+margin: auto;
 
 }
+
 
 p{
     text-align: center;
@@ -25,3 +27,17 @@ h1, h2{
 header{
     text-align: center;
 }
+
+a, section 
+{
+    text-align: center;
+    color: aliceblue;
+}
+
+a :hover
+{
+    color: rgb(11, 109, 195);
+}
+
+
+
